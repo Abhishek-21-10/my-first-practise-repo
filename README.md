@@ -5,4 +5,4 @@ this is my first repo for my practise
 this is my pasion 
 
 # bored 
-when i get bored in doing codeing i listen to song and do codeing
+when i get bored in doing coding i listen to song and do coding
